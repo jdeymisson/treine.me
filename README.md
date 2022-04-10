@@ -1,7 +1,7 @@
 <h1 align="center" >Treine.me 🏋️‍♂️ </h1>
 
 ## 📕 Sobre
-Esse projeto foi desenvolvido durante a segunda semana do treinamento Explorer da Rocketseat, aplicamos conceitos como flexbox, positions.
+Esse projeto foi desenvolvido durante a segunda semana do treinamento Explorer da Rocketseat, aplicamos conceitos como flexbox, positions e semântica.
 
 ## Layout da Página 💻
 
